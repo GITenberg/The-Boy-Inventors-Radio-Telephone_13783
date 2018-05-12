@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '5217'
     url: http://www.gutenberg.org/2009/agents/5217
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13783#The-Boy-Inventors-Radio-Telephone
 gutenberg_bookshelf:
 - Technology
 - Children's Book Series
