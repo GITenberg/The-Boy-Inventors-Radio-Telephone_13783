@@ -1,0 +1,34 @@
+_repo: The-Boy-Inventors-Radio-Telephone_13783
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wrenn, Charles L. (Charles Lewis)
+    birthdate: 1880
+    deathdate: 1952
+    gutenberg_agent_id: '25468'
+    url: http://www.gutenberg.org/2009/agents/25468
+covers:
+- cover_type: archival
+  image_path: 13783-h/images/cover.gif
+creator:
+  author:
+    agent_name: Bonner, Richard
+    gutenberg_agent_id: '5217'
+    url: http://www.gutenberg.org/2009/agents/5217
+description: ''
+gutenberg_bookshelf:
+- Technology
+- Children's Book Series
+gutenberg_issued: '2004-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13783'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Radio'
+title: The Boy Inventors' Radio Telephone
+url: http://www.gutenberg.org/ebooks/13783
